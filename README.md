@@ -41,5 +41,5 @@ Numpy
 ```
 
 **Findings**
-* The model accuracy is 77.6316%, ensuring accuracy greater than 60%, proving suitablility for the current problem. The model proposed works as expected, identifying dogs (and breeds) and humans with good accuracy.
+* The model accuracy is 79.6651%, ensuring accuracy greater than 60%, proving suitablility for the current problem. The model proposed works as expected, identifying dogs (and breeds) and humans with good accuracy.
 * Great project to learn how to build a pipeline to process real-world, user-supplied images.

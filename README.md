@@ -1,6 +1,8 @@
 # Dog-Breed-Classifier
 The dog-breed classifier project is a Capstone Project, part of Udacity Data Scientist Nanodegree. 
 
+The blog post explainig the findings ans results can be found [here] (https://leo-tomassetti.medium.com/can-you-tell-which-is-a-dogs-breed-baadfafe4757)
+
 **Project Overview**
 
 This project uses Convolutional Neural Networks (CNNs). Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.

@@ -1,7 +1,7 @@
 # Dog-Breed-Classifier
 The dog-breed classifier project is a Capstone Project, part of Udacity Data Scientist Nanodegree. 
 
-The blog post explainig the findings ans results can be found [here] (https://leo-tomassetti.medium.com/can-you-tell-which-is-a-dogs-breed-baadfafe4757)
+The blog post explainig the findings ans results can be found [here](https://leo-tomassetti.medium.com/can-you-tell-which-is-a-dogs-breed-baadfafe4757)
 
 **Project Overview**
 

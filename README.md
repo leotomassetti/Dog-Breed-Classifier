@@ -15,8 +15,7 @@ This project uses Convolutional Neural Networks (CNNs). Given an image of a dog,
 - saved_models: contains the models saved during this project
 
 **Downloads:**
-Pre-computer bottleneck features for InceptionV3
-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
+Pre-computer bottleneck features for [InceptionV3](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz)
 
 **Contents**
 The project is organized along the following steps:
@@ -31,8 +30,7 @@ The project is organized along the following steps:
     Step 6: Test Your Algorithm
 
 **Repository**
-The original Udacity project instructions can be found:
-https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification
+The original Udacity project instructions can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
 
 **Libraries**
 ```
